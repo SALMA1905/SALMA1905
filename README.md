@@ -60,7 +60,7 @@ Technologies: React • JavaScript • HTML5 • CSS3
 
 📫 Contact
 
-I'm currently looking for a first job or internship opportunity in software development, full-stack development or related IT fields.
+🔗 "LinkedIn" (https://www.linkedin.com/in/salma-oulboughaz-05a225348/)
 
 📧 Feel free to contact me for professional opportunities.
 
